@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d895f630011e401b93ba28de1851ac2e, type: 3}
+  m_Name: Resources
+  m_EditorClassIdentifier: 
+  _bombermanLeft: {fileID: 11400000, guid: d420ca93a184d6448910cae513b36625, type: 2}
+  _bombermanRight: {fileID: 11400000, guid: 4b491d757d57e834fbee5fd2dc1b9900, type: 2}
+  _bombermanUp: {fileID: 11400000, guid: 54008234f5941034bab8f9ae54378acd, type: 2}
+  _bombermanDown: {fileID: 11400000, guid: c728ea4b35e876f49b5f7f38a788c352, type: 2}
+  _bombermanDeath: {fileID: 11400000, guid: f9f38cfceea1a5b4b88a5088c1da3fbd, type: 2}
+  _ballomLeft: {fileID: 11400000, guid: d035974e40dcd7a4781117d17e26fb1c, type: 2}
+  _ballomRight: {fileID: 11400000, guid: e8b2054ef8a28af4ab4f3716e736767f, type: 2}
+  _ballomDeath: {fileID: 11400000, guid: edf7491d7f3b1d745a09500c7c26d80c, type: 2}
+  _bombTileAnimation: {fileID: 11400000, guid: 53e0b8bad7ca89144b9191fe03ac04c9, type: 2}
+  _brickWallExplosionTileAnimation: {fileID: 11400000, guid: c5809759e7bb3174bb3c15ea0693db93, type: 2}
+  _explosionCenterTileAnimation: {fileID: 11400000, guid: 369b33e4418e2814c8502f17e05cce05, type: 2}
+  _explosionHorizontalTileAnimation: {fileID: 11400000, guid: f7e4eea0eac148046a9c4777da16990e, type: 2}
+  _explosionVerticalTileAnimation: {fileID: 11400000, guid: ad3f61ca7fa1d2d489f3607abf6d2bc5, type: 2}
+  _explosionLeftTileAnimation: {fileID: 11400000, guid: faee932a8d530cb4eac3fdf0ad05dc00, type: 2}
+  _explosionRightTileAnimation: {fileID: 11400000, guid: d2e50b130fa5b2140b3aaf540c3bef75, type: 2}
+  _explosionUpTileAnimation: {fileID: 11400000, guid: 11337fa3a16fbc748aebfb3fd5b3b268, type: 2}
+  _explosionDownTileAnimation: {fileID: 11400000, guid: f6d2317bc1c15ae42bc3165b7b4c9832, type: 2}
+  _emptyTile: {fileID: 11400000, guid: 0d3fb42f28d3e614a8f67df8fd3f2279, type: 2}
+  _hardWallTile: {fileID: 11400000, guid: 4fe4e4e07b2ffcd4fab6ee9619d1c43d, type: 2}
+  _brickWallTile: {fileID: 11400000, guid: 63a68521871780f45805b32cfb2b0771, type: 2}
+  _doorTile: {fileID: 11400000, guid: 5f9a7265eaa1b524a906b533ef4f0a7b, type: 2}
+  _firePowerupTile: {fileID: 11400000, guid: 4c718764fbf014e4ebf7bd45e8d1c613, type: 2}
+  _bombPowerupTile: {fileID: 11400000, guid: f40e8bfc021ddc74693142b3c1fa4331, type: 2}
+  _detonatorPowerupTile: {fileID: 11400000, guid: f425646d316b1e248bdf1c6aaea38aa4, type: 2}
+  _speedupPowerupTile: {fileID: 11400000, guid: bfc3f1940e4065744a30ac0b20c6b088, type: 2}

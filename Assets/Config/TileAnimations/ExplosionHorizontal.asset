@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2319bebcad794187b56f75dbbfe37b18, type: 3}
+  m_Name: ExplosionHorizontal
+  m_EditorClassIdentifier: 
+  _tiles:
+  - {fileID: 11400000, guid: 6eaf3f62d024b5d4f9eb52d774e89719, type: 2}
+  - {fileID: 11400000, guid: 2db5d88293706014796248c76db3a45b, type: 2}
+  - {fileID: 11400000, guid: b74bc781dc5d78941a91a403ffcd10f6, type: 2}
+  - {fileID: 11400000, guid: 9a2cde802d4e77c4293ddcfb720117e7, type: 2}
+  - {fileID: 11400000, guid: b74bc781dc5d78941a91a403ffcd10f6, type: 2}
+  - {fileID: 11400000, guid: 2db5d88293706014796248c76db3a45b, type: 2}
+  - {fileID: 11400000, guid: 6eaf3f62d024b5d4f9eb52d774e89719, type: 2}
+  _speed: 10
+  _looped: 0

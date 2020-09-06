@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e61c98fc04b0408f92623cbe05b0b3f9, type: 3}
+  m_Name: BombermanRight
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: 6116080786932476827, guid: 98e813095a380c840bbebe3592410629, type: 3}
+  - {fileID: 5778961287088506303, guid: 98e813095a380c840bbebe3592410629, type: 3}
+  - {fileID: 8758155216525550727, guid: 98e813095a380c840bbebe3592410629, type: 3}
+  - {fileID: 5778961287088506303, guid: 98e813095a380c840bbebe3592410629, type: 3}
+  _speed: 12
+  _looped: 1
